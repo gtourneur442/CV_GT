@@ -1,3 +1,3 @@
 # CV_GT_2
  
-https://gtourneur442.github.io/depot/
+https://gtourneur442.github.io/depot/CV_GT/
